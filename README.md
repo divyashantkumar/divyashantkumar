@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> 
   
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> 
+
+  <img src="https://img.shields.io/badge/bootstrap-FFFFFF?logo=bootstrap&logoColor=7952B3" height="32" alt="Bootstrap" style="margin-right: 4px"> 
   
   <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="32" alt="GSAP" style="margin-right: 4px"> 
   
