@@ -42,7 +42,7 @@
   
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> 
   
-   <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=4FC08D" height="32" alt="Neo4j" style="margin-right: 4px"> 
+   <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=FFFFFF" height="32" alt="Neo4j" style="margin-right: 4px"> 
 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> 
 </div>
