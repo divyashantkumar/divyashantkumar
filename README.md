@@ -30,7 +30,7 @@
   
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> 
   
-  <img src="https://img.shields.io/badge/vuedotjs?logo=vue.js&logoColor=4FC08D" height="32" alt="Vue.js" style="margin-right: 4px">   
+  <img src="https://img.shields.io/badge/vue.js-FFFFFF?logo=vue.js&logoColor=4FC08D" height="32" alt="Vue.js" style="margin-right: 4px">   
 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> 
   
@@ -42,8 +42,7 @@
   
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> 
   
-   <img src="https://img.shields.io/badge?logo=Neo4j&logoColor=%23014063&label=Neo4j&labelColor=%23014063&color=%23fff
-" height="32" alt="Neo4j" style="margin-right: 4px"> 
+   <img src="https://img.shields.io/badge/Neo4j?logo=neo4j-4581C3&logoColor=4FC08D" height="32" alt="Neo4j" style="margin-right: 4px"> 
 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> 
 </div>
