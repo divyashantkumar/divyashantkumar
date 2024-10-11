@@ -30,9 +30,7 @@
   
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> 
   
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> 
-  
-  <img src="https://img.shields.io/badge/Vue%203?logo=vuedotjs&logoColor=%234FC08D" height="32" alt="Vue.js" style="margin-right: 4px">   
+  <img src="https://img.shields.io/badge/Vue.js?logo=vue.js&logoColor=4FC08D" height="32" alt="Vue.js" style="margin-right: 4px">   
 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> 
   
