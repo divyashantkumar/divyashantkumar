@@ -30,7 +30,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a LMS platform**
-- 🌱 I'm currently learning: **📚 Exploring JAVA Full Stack**
+- 🌱 I'm currently learning: **📚 JAVA Full Stack**
 - 💬 Ask me about: **💡 JavaScript, React, vue3, Neo4j, Node.js, MongoDB, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
